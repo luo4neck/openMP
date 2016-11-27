@@ -9,4 +9,4 @@ test: sieve sievemp
 #./sievemp 10000
 
 clean: 
-	rm *.o core*
+	rm *.o core* sieve sievemp
